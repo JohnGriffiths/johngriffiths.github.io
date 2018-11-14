@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Cyrille Rossant'
-SITENAME = 'Cyrille Rossant'
+AUTHOR = 'John Griffiths'
+SITENAME = 'John Griffiths'
 SITEURL = ''
 PATH = 'content'
 
-SIDEBAR_NAME = 'Cyrille Rossant, PhD'
-SIDEBAR_SUBNAME = 'Neuroscience researcher and software engineer, University College London'
+SIDEBAR_NAME = 'Johhn Griffiths, PhD'
+SIDEBAR_SUBNAME = '' #'Neuroscience researcher and software engineer, University College London'
 SIDEBAR_EMAIL = '<i>firstname</i>.<i>lastname</i>@gmail.com'
-SIDEBAR_LOCATION = 'Paris, France'
+SIDEBAR_LOCATION = '' #'Paris, France'
 SIDEBAR_TAGS = ['neuroscience',
                 'python',
                 'dataviz',
@@ -72,11 +72,11 @@ AUTHOR_URL = ''
 AUTHOR_SAVE_AS = ''
 CATEGORY_URL = ''
 CATEGORY_SAVE_AS = ''
-TWITTER_USERNAME = 'cyrillerossant'
-GITHUB_USERNAME = 'rossant'
-LINKEDIN_USERNAME = 'crossant'
-STATCOUNTER = '7297581'
-DISQUS_SITENAME = 'rossant'
+TWITTER_USERNAME = 'neurodidact'
+GITHUB_USERNAME = 'JohnGriffiths'
+LINKEDIN_USERNAME = '' # crossant'
+STATCOUNTER = '' # '7297581'
+DISQUS_SITENAME = '' # 'rossant'
 MENUITEMS = [('Home', '/'),
              ('Projects', '/projects/'),
              ('Books', '/books/'),

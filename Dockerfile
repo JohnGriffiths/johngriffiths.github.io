@@ -1,5 +1,5 @@
 FROM python:3
-MAINTAINER rossant <cyrille.rossant@gmail.com>
+MAINTAINER johngriffiths <j.davidgriffiths@gmail.com>
 
 # Update OS
 RUN sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list
